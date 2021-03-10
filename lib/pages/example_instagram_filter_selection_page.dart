@@ -59,6 +59,9 @@ class _State extends State<ExampleInstagramFilterSelectionPage> {
   }
 
   Widget _buildFilterSelector() {
-    return FilterSelector(filters: _filters, onFilterChanged: _onFilterChanged);
+    return FilterSelector(
+      filters: _filters,
+      onFilterChanged: _onFilterChanged,
+    );
   }
 }
