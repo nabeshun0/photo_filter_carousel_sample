@@ -1,16 +1,5 @@
 # photo_filter_carousel_sample
 
-A new Flutter application.
+![2021-03-10 12-32-09 2021-03-10 12_33_00](https://user-images.githubusercontent.com/38596913/110637141-6e718680-81f0-11eb-9ece-aa914f42f85e.gif)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Create a photo filter carousel](https://flutter.dev/docs/cookbook/effects/photo-filter-carousel)
